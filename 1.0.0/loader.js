@@ -1,5 +1,5 @@
 (function() {
-  const BASE = "https://<org>.github.io/onsite-components-dist/latest";
+  const BASE = "https://<org>.github.io/onsite-components-dist/1.0.0";
 
   function loadComponent(name) {
     if (document.querySelector(`script[data-component='${name}']`)) return;
@@ -11,6 +11,6 @@
   }
 
   // Page-specific rules
-  if (location.pathname.includes("/orders")) loadComponent("component-a");
-  if (window.user && window.user.role === "admin") loadComponent("component-b");
+  // if (location.pathname.includes("/orders")) loadComponent("component-a");
+  // if (window.user && window.user.role === "admin") loadComponent("component-b");
 })();

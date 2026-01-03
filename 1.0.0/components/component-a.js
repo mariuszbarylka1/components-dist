@@ -1,2 +1,1 @@
-(()=>{let a="test";console.log(a)})();
-//test
+(()=>{let a="test";console.log(a-testednp)})();
