@@ -1,1 +1,1 @@
-(()=>{let a="test";console.log(a-testednp)})();
+(()=>{let a="test";console.log("a-testednp")})();
