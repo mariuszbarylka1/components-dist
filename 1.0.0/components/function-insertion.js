@@ -1,0 +1,1 @@
+(()=>{"use strict";const insert=()=>{console.log("function-insertion-testednp")};insert()})();
