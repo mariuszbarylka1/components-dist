@@ -1,1 +1,1 @@
-(()=>{console.log("b")})();
+(()=>{console.log("b");let test="variable";let html="<div>".concat(test,"</div>\n<nav>\n <p>This is navigation testing ").concat(test,"</p>\n</nav>")})();
