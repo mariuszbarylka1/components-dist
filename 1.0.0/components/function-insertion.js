@@ -1,1 +1,1 @@
-(()=>{"use strict";const insert=()=>{console.log("function-insertion-testednp")};insert()})();
+(()=>{"use strict";const insert=()=>{console.log("This is a working function insert")};insert()})();
